@@ -55,3 +55,4 @@ const bob = new DiffieHellman(23, 5)
 const alicePrivateKey = 5
 const bobPrivateKey = 7
 
+// @ts-check
